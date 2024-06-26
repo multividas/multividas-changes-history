@@ -19,9 +19,14 @@
 
 - Added:
   - Favorites
+  - OAuth
   - Verified Accounts
   - Profile Photos
   - Profile About section
+  
+- OAuth includes:
+  - Login with GitHub
+  - Login with Google
 
 - Profile About includes:
   - Places Lived
