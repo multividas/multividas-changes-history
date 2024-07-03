@@ -33,7 +33,7 @@
   - Family and relationships
   - Work and education details
 
-### June
+### July
 
 - Launched MultiChat
 - Realtime notifications
