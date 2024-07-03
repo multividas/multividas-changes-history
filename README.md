@@ -36,4 +36,5 @@
 ### June
 
 - Launched MultiChat
+- Realtime notifications
 
